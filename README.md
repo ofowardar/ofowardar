@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEp7bjNUpengw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1672097275438?e=1731542400&v=beta&t=u_Yau-lZIK-Cy7Jqwq0di0THYJQX6cSKAd1frLSb1jE)
 <h1 align="center">Hi 👋, I'm ofo</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
