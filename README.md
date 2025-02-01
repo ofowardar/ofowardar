@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofowardar" alt="ofowardar" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **python,c++,c#,cyber security**
+- 💬 Ask me about **python,c++,c#,Machine Learning,Prediction Systems**
 
 - 📫 How to reach me **ofowardar@gmail.com**
 
