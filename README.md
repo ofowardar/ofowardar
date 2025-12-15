@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ofo</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**,**Computer Vision**
 
 - 💬 Ask me about **python,c++,c#,Machine Learning,Prediction Systems**
 
