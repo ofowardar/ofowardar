@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m ofo 👋 🇹🇷  
+# Hi, I’m ofo 👋  
 ### Computer Engineering Student • AI & Machine Learning Enthusiast
 
 </div>
@@ -9,7 +9,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=İstisna+bir+sonuç+bekliyorsanız%2C;müstesna+koşullarda+çalışmak+zorundasınız." />
+> ## ✨ *“İstisna bir sonuç bekliyorsanız,  
+> müstesna koşullarda çalışmak zorundasınız.”*
 
 </div>
 
@@ -22,7 +23,7 @@ I enjoy building intelligent, efficient, and portable systems by combining softw
 ---
 
 ## ⚙️ Skills
-![Skills](https://skillicons.dev/icons?i=python,cpp,c,linux,bash,opencv,sklearn,numpy,pandas,git,github,selenium,photoshop,illustrator,kali,raspberrypi,arduino,html&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,cpp,c,linux,bash,git,github,opencv,sklearn,numpy,pandas,selenium,photoshop,illustrator,kali,raspberrypi,arduino,html&theme=dark)
 
 **Other Tools & Domains:**  
 Cybersecurity • TradingView • Pine Script • Technical Analysis
@@ -52,6 +53,7 @@ Real-time vehicle detection, tracking, and directional line-crossing based count
 ---
 
 ## 📫 Contact
+
 - 💼 LinkedIn: https://www.linkedin.com/in/ofowardar/
 - 💻 GitHub: https://github.com/ofowardar
 
