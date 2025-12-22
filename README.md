@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ofo+!" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=36&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ofo+!)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=2000&color=B0BEC5&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student+•+AI+%26+Machine+Learning+Enthusiast" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=2000&color=B0BEC5&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student+•+AI+%26+Machine+Learning+Enthusiast)
 
 ---
 
@@ -15,38 +11,24 @@ I enjoy building **intelligent, efficient, and portable systems**, combining sof
 ---
 
 ## ⚙️ Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,opencv,sklearn,numpy,pandas&theme=dark" />
-</p>
+![Skills](https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,opencv,sklearn,numpy,pandas&theme=dark)
 
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=YOLO&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=SentimentTest&theme=github_dark&hide_border=true" />
-</p>
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=YOLO&theme=github_dark&hide_border=true)](https://github.com/ofowardar/YOLO)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=SentimentTest&theme=github_dark&hide_border=true)](https://github.com/ofowardar/SentimentTest)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofowardar&show_icons=true&hide_border=true&theme=github_dark" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=ofowardar&show_icons=true&hide_border=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofowardar&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofowardar&layout=compact&hide_border=true&theme=github_dark)
 
 ---
 
 ## 📫 Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/ofowardar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ofowardar/)
 
-<p align="center">
-  <sub>Always learning • Always building</sub>
-</p>
+_Always learning • Always building_
