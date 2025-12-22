@@ -4,7 +4,7 @@
 
 ---
 
-![Quote](https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=3500&color=39FF14&center=true&vCenter=true&width=900&lines=İstisna+bir+sonuç+bekliyorsanız%2C+müstesna+koşullarda+çalışmak+zorundasınız.)
+![Quote](https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=3500&color=39FF14&center=true&vCenter=true&width=900&lines=İstisna+bir+sonuç+bekliyorsanız%2C;Müstesna+koşullarda+çalışmak+zorundasınız.)
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy building **intelligent, efficient, and portable systems**, combining sof
 ## 🚀 Featured Projects
 | Project | Project |
 |--------|--------|
-| [![YOLO](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=YOLO&theme=github_dark&hide_border=true)](https://github.com/ofowardar/YOLO) | [![SentimentTest](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=SentimentTest&theme=github_dark&hide_border=true)](https://github.com/ofowardar/SentimentTest) |
+| [![Movie Recommendation KNN](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=movie-recommendation-knn&theme=github_dark&hide_border=true)](https://github.com/ofowardar/movie-recommendation-knn) | [![Vehicle Counting YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=Vehicle-counting-on-highway-traffic-using-YOLOv8-ByteTrack-with-directional-line-crossing&theme=github_dark&hide_border=true)](https://github.com/ofowardar/Vehicle-counting-on-highway-traffic-using-YOLOv8-ByteTrack-with-directional-line-crossing) |
 
 ---
 
