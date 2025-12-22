@@ -4,6 +4,10 @@
 
 ---
 
+![Quote](https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=3500&color=39FF14&center=true&vCenter=true&width=900&lines=İstisna+bir+sonuç+bekliyorsanız%2C+müstesna+koşullarda+çalışmak+zorundasınız.)
+
+---
+
 ## 🧠 About
 Computer Engineering student focused on **Artificial Intelligence and Machine Learning**.  
 I enjoy building **intelligent, efficient, and portable systems**, combining software with real-world applications.
@@ -16,15 +20,16 @@ I enjoy building **intelligent, efficient, and portable systems**, combining sof
 ---
 
 ## 🚀 Featured Projects
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=YOLO&theme=github_dark&hide_border=true)](https://github.com/ofowardar/YOLO)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=SentimentTest&theme=github_dark&hide_border=true)](https://github.com/ofowardar/SentimentTest)
+| Project | Project |
+|--------|--------|
+| [![YOLO](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=YOLO&theme=github_dark&hide_border=true)](https://github.com/ofowardar/YOLO) | [![SentimentTest](https://github-readme-stats.vercel.app/api/pin/?username=ofowardar&repo=SentimentTest&theme=github_dark&hide_border=true)](https://github.com/ofowardar/SentimentTest) |
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ofowardar&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofowardar&layout=compact&hide_border=true&theme=github_dark)
+| Stats | Languages |
+|------|-----------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ofowardar&show_icons=true&hide_border=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofowardar&layout=compact&hide_border=true&theme=github_dark) |
 
 ---
 
